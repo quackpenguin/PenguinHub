@@ -186,4 +186,3 @@ CloseButton.MouseButton1Click:Connect(function()
     end)
     closeTween:Play()
 end)
-```
